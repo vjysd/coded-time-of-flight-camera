@@ -9,5 +9,5 @@ To address the above mentioned issues, we constructed a coded time of flight cam
 ##Approach
 We exploited the concept of time resolved imaging to capture light in motion. A phase modulated light source locked with image sensor served this purpose. To address the issue of depth accuracy as our second intent, we constructed a mathematical model of multi-frequency light source de-multiplexing, wherein multiple light sources running at different frequencies were used to improve depth accuracy. A broadband signal, accommodating all the bins from multiple light sources was used to modulate the image sensor. This method proved to be more economical and efficient than current models where multiple cameras are used to serve the same purpose.
 
-##Future work
-As a future perspective, we are exploring the the applications of transient time of flight imaging in medical domain. Added to this, we are also looking at applications spanning 3D reconstruction & enhanced field of view ToF.
+## HOW TO
+Please use the diy_tof.pdf file to find all the necessary information about rebuilding the system from scratch.
