@@ -1,0 +1,585 @@
+Archive Project report for nios_test
+Thu Aug 07 23:03:08 2014
+Quartus II 32-bit Version 12.0 Build 263 08/02/2012 Service Pack 2 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2012 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Thu Aug 07 23:03:08 2014 ;
+; Revision Name          ; nios_test                             ;
+; Top-level Entity Name  ; top                                   ;
+; Family                 ; Cyclone IV E                          ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Custom' contains:
+    Info: Programming output files
+    Info: Incremental compilation database files
+    Info: Automatically detected source files
+    Info: Report files
+    Info: Project source and settings files
+    Info: Megafunction and IP library files
+    Info: Version compatible database files
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/Users/achoo/Documents/PMD/Quartus/nano_cam.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'nios_test.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/altera/12.0sp2/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 32-bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 281 megabytes
+    Info: Processing ended: Thu Aug 07 23:03:08 2014
+    Info: Elapsed time: 00:00:18
+    Info: Total CPU time (on all processors): 00:00:16
+
+
++------------------------------------------------------------------------------------+
+; Files Archived                                                                     ;
++------------------------------------------------------------------------------------+
+; File Name                                                                          ;
++------------------------------------------------------------------------------------+
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/a_dpfifo.inc                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/a_f2fifo.inc                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/a_fefifo.inc                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/a_fefifo.tdf                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/a_fffifo.inc                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/a_fffifo.tdf                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/a_i2fifo.inc                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/a_rdenreg.inc                    ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/a_regfifo.inc                    ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/addcore.inc                      ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/aglobal120.inc                   ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/alt_counter_stratix.inc          ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/alt_ded_mult.inc                 ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/alt_ded_mult_y.inc               ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/alt_jtag_atlantic.v              ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/alt_stratix_add_sub.inc          ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/altddio_in.tdf                   ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/altddio_out.tdf                  ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/altdpram.inc                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/altera_std_synchronizer.v        ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/altera_std_synchronizer_bundle.v ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/altpll.tdf                       ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/altram.inc                       ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/altrom.inc                       ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/altshift.inc                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/altshift.tdf                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/altshift_taps.tdf                ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/altsyncram.tdf                   ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/bypassff.inc                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/cbx.lst                          ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/cmpconst.inc                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/comptree.inc                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/csa_add.inc                      ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/cyclone_ddio.inc                 ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/cycloneii_pll.inc                ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/dffeea.inc                       ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/dffpipe.inc                      ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/look_add.inc                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/lpm_add_sub.inc                  ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/lpm_add_sub.tdf                  ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/lpm_compare.inc                  ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/lpm_compare.tdf                  ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/lpm_constant.inc                 ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/lpm_counter.inc                  ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/lpm_counter.tdf                  ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/lpm_decode.inc                   ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/lpm_ff.inc                       ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/lpm_ff.tdf                       ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/lpm_mult.tdf                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/lpm_mux.inc                      ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/lpm_mux.tdf                      ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/mpar_add.inc                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/mpar_add.tdf                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/mul_boothc.inc                   ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/mul_lfrg.inc                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/muleabz.inc                      ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/multcore.inc                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/multcore.tdf                     ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/muxlut.inc                       ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/pzdyqx.vhd                       ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/scfifo.tdf                       ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/sld_hub.vhd                      ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/sld_rom_sr.vhd                   ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/sld_virtual_jtag_basic.v         ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/stratix_ddio.inc                 ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/stratix_lcell.inc                ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/stratix_pll.inc                  ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/stratix_ram_block.inc            ;
+; C:/altera/12.0sp2/quartus/libraries/megafunctions/stratixii_pll.inc                ;
+; C:/altera/12.0sp2/quartus/libraries/vhdl/ieee/prmtvs_b.vhd                         ;
+; C:/altera/12.0sp2/quartus/libraries/vhdl/ieee/prmtvs_p.vhd                         ;
+; C:/altera/12.0sp2/quartus/libraries/vhdl/ieee/timing_b.vhd                         ;
+; C:/altera/12.0sp2/quartus/libraries/vhdl/ieee/timing_p.vhd                         ;
+; db/a_dpfifo_ch31.tdf                                                               ;
+; db/a_dpfifo_l541.tdf                                                               ;
+; db/a_dpfifo_q131.tdf                                                               ;
+; db/a_dpfifo_ri31.tdf                                                               ;
+; db/a_fefifo_7cf.tdf                                                                ;
+; db/add_sub_24e.tdf                                                                 ;
+; db/add_sub_lgh.tdf                                                                 ;
+; db/add_sub_qvi.tdf                                                                 ;
+; db/altera_tse_alt4gxb_gige.v                                                       ;
+; db/altera_tse_alt4gxb_gige_wo_rmfifo.v                                             ;
+; db/altera_tse_altgx_civgx_gige.v                                                   ;
+; db/altera_tse_altgx_civgx_gige_wo_rmfifo.v                                         ;
+; db/altsyncram_0a02.tdf                                                             ;
+; db/altsyncram_3ud1.tdf                                                             ;
+; db/altsyncram_5rd1.tdf                                                             ;
+; db/altsyncram_7vd1.tdf                                                             ;
+; db/altsyncram_1961.tdf                                                             ;
+; db/altsyncram_6782.tdf                                                             ;
+; db/altsyncram_a6g1.tdf                                                             ;
+; db/altsyncram_a9g1.tdf                                                             ;
+; db/altsyncram_ce81.tdf                                                             ;
+; db/altsyncram_cfg1.tdf                                                             ;
+; db/altsyncram_ctg1.tdf                                                             ;
+; db/altsyncram_d4h1.tdf                                                             ;
+; db/altsyncram_dtg1.tdf                                                             ;
+; db/altsyncram_e9h1.tdf                                                             ;
+; db/altsyncram_g9g1.tdf                                                             ;
+; db/altsyncram_mfg1.tdf                                                             ;
+; db/altsyncram_n3k1.tdf                                                             ;
+; db/altsyncram_n6k1.tdf                                                             ;
+; db/altsyncram_o1b1.tdf                                                             ;
+; db/altsyncram_r1m1.tdf                                                             ;
+; db/altsyncram_r6d1.tdf                                                             ;
+; db/altsyncram_s1b1.tdf                                                             ;
+; db/altsyncram_udd1.tdf                                                             ;
+; db/altsyncram_uua1.tdf                                                             ;
+; db/cmpr_6fg.tdf                                                                    ;
+; db/cmpr_es8.tdf                                                                    ;
+; db/cmpr_js8.tdf                                                                    ;
+; db/cmpr_ogc.tdf                                                                    ;
+; db/cmpr_qgc.tdf                                                                    ;
+; db/cntr_0bf.tdf                                                                    ;
+; db/cntr_0ob.tdf                                                                    ;
+; db/cntr_1ob.tdf                                                                    ;
+; db/cntr_4pf.tdf                                                                    ;
+; db/cntr_6pf.tdf                                                                    ;
+; db/cntr_8o7.tdf                                                                    ;
+; db/cntr_do7.tdf                                                                    ;
+; db/cntr_p8h.tdf                                                                    ;
+; db/cntr_qqf.tdf                                                                    ;
+; db/cntr_r8h.tdf                                                                    ;
+; db/cntr_snb.tdf                                                                    ;
+; db/ddio_in_15e.tdf                                                                 ;
+; db/ddio_in_u4e.tdf                                                                 ;
+; db/ddio_out_1qb.tdf                                                                ;
+; db/ddio_out_p9j.tdf                                                                ;
+; db/ddio_out_upb.tdf                                                                ;
+; db/decode_lsa.tdf                                                                  ;
+; db/dpram_nl21.tdf                                                                  ;
+; db/ip/nios_test/nios_test.v                                                        ;
+; db/ip/nios_test/submodules/AD9826.v                                                ;
+; db/ip/nios_test/submodules/ADCConfig.v                                             ;
+; db/ip/nios_test/submodules/ADCSample.v                                             ;
+; db/ip/nios_test/submodules/altera_avalon_sc_fifo.v                                 ;
+; db/ip/nios_test/submodules/altera_avalon_st_pipeline_base.v                        ;
+; db/ip/nios_test/submodules/altera_merlin_arbitrator.sv                             ;
+; db/ip/nios_test/submodules/altera_merlin_burst_adapter.sv                          ;
+; db/ip/nios_test/submodules/altera_merlin_burst_uncompressor.sv                     ;
+; db/ip/nios_test/submodules/altera_merlin_master_agent.sv                           ;
+; db/ip/nios_test/submodules/altera_merlin_master_translator.sv                      ;
+; db/ip/nios_test/submodules/altera_merlin_slave_agent.sv                            ;
+; db/ip/nios_test/submodules/altera_merlin_slave_translator.sv                       ;
+; db/ip/nios_test/submodules/altera_merlin_traffic_limiter.sv                        ;
+; db/ip/nios_test/submodules/altera_merlin_width_adapter.sv                          ;
+; db/ip/nios_test/submodules/altera_reset_controller.sdc                             ;
+; db/ip/nios_test/submodules/altera_reset_controller.v                               ;
+; db/ip/nios_test/submodules/altera_reset_synchronizer.v                             ;
+; db/ip/nios_test/submodules/altera_tse_a_fifo_13.v                                  ;
+; db/ip/nios_test/submodules/altera_tse_a_fifo_24.v                                  ;
+; db/ip/nios_test/submodules/altera_tse_a_fifo_34.v                                  ;
+; db/ip/nios_test/submodules/altera_tse_a_fifo_opt_14_44.v                           ;
+; db/ip/nios_test/submodules/altera_tse_a_fifo_opt_36_10.v                           ;
+; db/ip/nios_test/submodules/altera_tse_a_fifo_opt_1246.v                            ;
+; db/ip/nios_test/submodules/altera_tse_align_sync.v                                 ;
+; db/ip/nios_test/submodules/altera_tse_alt2gxb_arriagx.v                            ;
+; db/ip/nios_test/submodules/altera_tse_alt2gxb_basic.v                              ;
+; db/ip/nios_test/submodules/altera_tse_alt2gxb_gige.v                               ;
+; db/ip/nios_test/submodules/altera_tse_alt2gxb_gige_wo_rmfifo.v                     ;
+; db/ip/nios_test/submodules/altera_tse_altshifttaps.v                               ;
+; db/ip/nios_test/submodules/altera_tse_altsyncram_dpm_fifo.v                        ;
+; db/ip/nios_test/submodules/altera_tse_avst_to_gmii_if.v                            ;
+; db/ip/nios_test/submodules/altera_tse_bin_cnt.v                                    ;
+; db/ip/nios_test/submodules/altera_tse_carrier_sense.v                              ;
+; db/ip/nios_test/submodules/altera_tse_clk_cntl.v                                   ;
+; db/ip/nios_test/submodules/altera_tse_clk_gen.v                                    ;
+; db/ip/nios_test/submodules/altera_tse_clock_crosser.v                              ;
+; db/ip/nios_test/submodules/altera_tse_colision_detect.v                            ;
+; db/ip/nios_test/submodules/altera_tse_crc32ctl8.v                                  ;
+; db/ip/nios_test/submodules/altera_tse_crc32galois8.v                               ;
+; db/ip/nios_test/submodules/altera_tse_crc328checker.v                              ;
+; db/ip/nios_test/submodules/altera_tse_crc328generator.v                            ;
+; db/ip/nios_test/submodules/altera_tse_dc_fifo.v                                    ;
+; db/ip/nios_test/submodules/altera_tse_dec10b8b.v                                   ;
+; db/ip/nios_test/submodules/altera_tse_dec_func.v                                   ;
+; db/ip/nios_test/submodules/altera_tse_dpram_8x32.v                                 ;
+; db/ip/nios_test/submodules/altera_tse_dpram_16x32.v                                ;
+; db/ip/nios_test/submodules/altera_tse_enc8b10b.v                                   ;
+; db/ip/nios_test/submodules/altera_tse_ethertype_decoder.v                          ;
+; db/ip/nios_test/submodules/altera_tse_fifoless_mac_rx.v                            ;
+; db/ip/nios_test/submodules/altera_tse_fifoless_mac_tx.v                            ;
+; db/ip/nios_test/submodules/altera_tse_fifoless_retransmit_cntl.v                   ;
+; db/ip/nios_test/submodules/altera_tse_geth_pcs_wo_ratematch.v                      ;
+; db/ip/nios_test/submodules/altera_tse_gige_reset_ctrl.v                            ;
+; db/ip/nios_test/submodules/altera_tse_gmii_io.v                                    ;
+; db/ip/nios_test/submodules/altera_tse_gmii_to_avst_if.v                            ;
+; db/ip/nios_test/submodules/altera_tse_gray_cnt.v                                   ;
+; db/ip/nios_test/submodules/altera_tse_gxb_aligned_rxsync.v                         ;
+; db/ip/nios_test/submodules/altera_tse_gxb_gige_inst.v                              ;
+; db/ip/nios_test/submodules/altera_tse_gxb_gige_phyip_inst.v                        ;
+; db/ip/nios_test/submodules/altera_tse_hashing.v                                    ;
+; db/ip/nios_test/submodules/altera_tse_host_control.v                               ;
+; db/ip/nios_test/submodules/altera_tse_host_control_small.v                         ;
+; db/ip/nios_test/submodules/altera_tse_inserter.v                                   ;
+; db/ip/nios_test/submodules/altera_tse_lb_read_cntl.v                               ;
+; db/ip/nios_test/submodules/altera_tse_lb_wrt_cntl.v                                ;
+; db/ip/nios_test/submodules/altera_tse_lfsr_10.v                                    ;
+; db/ip/nios_test/submodules/altera_tse_loopback_ff.v                                ;
+; db/ip/nios_test/submodules/altera_tse_lvds_reset_sequencer.v                       ;
+; db/ip/nios_test/submodules/altera_tse_mac.v                                        ;
+; db/ip/nios_test/submodules/altera_tse_mac_control.v                                ;
+; db/ip/nios_test/submodules/altera_tse_mac_pcs.v                                    ;
+; db/ip/nios_test/submodules/altera_tse_mac_pcs_gige_woff.v                          ;
+; db/ip/nios_test/submodules/altera_tse_mac_pcs_pma.v                                ;
+; db/ip/nios_test/submodules/altera_tse_mac_pcs_pma_ena.v                            ;
+; db/ip/nios_test/submodules/altera_tse_mac_pcs_pma_gige.v                           ;
+; db/ip/nios_test/submodules/altera_tse_mac_pcs_pma_gige_phyip.v                     ;
+; db/ip/nios_test/submodules/altera_tse_mac_pcs_pma_strx_gx_ena.v                    ;
+; db/ip/nios_test/submodules/altera_tse_mac_pcs_woff.v                               ;
+; db/ip/nios_test/submodules/altera_tse_mac_rx.v                                     ;
+; db/ip/nios_test/submodules/altera_tse_mac_tx.v                                     ;
+; db/ip/nios_test/submodules/altera_tse_mac_woff.ocp                                 ;
+; db/ip/nios_test/submodules/altera_tse_mac_woff.v                                   ;
+; db/ip/nios_test/submodules/altera_tse_magic_detection.v                            ;
+; db/ip/nios_test/submodules/altera_tse_mdio.v                                       ;
+; db/ip/nios_test/submodules/altera_tse_mdio_clk_gen.v                               ;
+; db/ip/nios_test/submodules/altera_tse_mdio_cntl.v                                  ;
+; db/ip/nios_test/submodules/altera_tse_mdio_reg.v                                   ;
+; db/ip/nios_test/submodules/altera_tse_mii_rx_if.v                                  ;
+; db/ip/nios_test/submodules/altera_tse_mii_rx_if_pcs.v                              ;
+; db/ip/nios_test/submodules/altera_tse_mii_tx_if.v                                  ;
+; db/ip/nios_test/submodules/altera_tse_mii_tx_if_pcs.v                              ;
+; db/ip/nios_test/submodules/altera_tse_multi_channel_arbiter.v                      ;
+; db/ip/nios_test/submodules/altera_tse_multi_mac.v                                  ;
+; db/ip/nios_test/submodules/altera_tse_multi_mac_pcs.v                              ;
+; db/ip/nios_test/submodules/altera_tse_multi_mac_pcs_pma.v                          ;
+; db/ip/nios_test/submodules/altera_tse_multi_mac_pcs_pma_gige.v                     ;
+; db/ip/nios_test/submodules/altera_tse_multi_mac_pcs_pma_gige_phyip.v               ;
+; db/ip/nios_test/submodules/altera_tse_packet_detector.v                            ;
+; db/ip/nios_test/submodules/altera_tse_pcs.v                                        ;
+; db/ip/nios_test/submodules/altera_tse_pcs_control.v                                ;
+; db/ip/nios_test/submodules/altera_tse_pcs_host_control.v                           ;
+; db/ip/nios_test/submodules/altera_tse_pcs_pma.v                                    ;
+; db/ip/nios_test/submodules/altera_tse_pcs_pma_gige.v                               ;
+; db/ip/nios_test/submodules/altera_tse_pcs_pma_gige_phyip.v                         ;
+; db/ip/nios_test/submodules/altera_tse_ph_calculator.sv                             ;
+; db/ip/nios_test/submodules/altera_tse_pma_lvds_rx.v                                ;
+; db/ip/nios_test/submodules/altera_tse_pma_lvds_tx.v                                ;
+; db/ip/nios_test/submodules/altera_tse_ptp_1588_crc.v                               ;
+; db/ip/nios_test/submodules/altera_tse_ptp_1588_rx_top.ocp                          ;
+; db/ip/nios_test/submodules/altera_tse_ptp_1588_rx_top.v                            ;
+; db/ip/nios_test/submodules/altera_tse_ptp_1588_tx_top.ocp                          ;
+; db/ip/nios_test/submodules/altera_tse_ptp_1588_tx_top.v                            ;
+; db/ip/nios_test/submodules/altera_tse_ptp_inserter.v                               ;
+; db/ip/nios_test/submodules/altera_tse_quad_8x32.v                                  ;
+; db/ip/nios_test/submodules/altera_tse_quad_16x32.v                                 ;
+; db/ip/nios_test/submodules/altera_tse_register_map.v                               ;
+; db/ip/nios_test/submodules/altera_tse_register_map_small.v                         ;
+; db/ip/nios_test/submodules/altera_tse_reset_ctrl_lego.sv                           ;
+; db/ip/nios_test/submodules/altera_tse_reset_sequencer.sv                           ;
+; db/ip/nios_test/submodules/altera_tse_reset_synchronizer.v                         ;
+; db/ip/nios_test/submodules/altera_tse_retransmit_cntl.v                            ;
+; db/ip/nios_test/submodules/altera_tse_rgmii_in1.v                                  ;
+; db/ip/nios_test/submodules/altera_tse_rgmii_in4.v                                  ;
+; db/ip/nios_test/submodules/altera_tse_rgmii_module.v                               ;
+; db/ip/nios_test/submodules/altera_tse_rgmii_out1.v                                 ;
+; db/ip/nios_test/submodules/altera_tse_rgmii_out4.v                                 ;
+; db/ip/nios_test/submodules/altera_tse_rx_converter.v                               ;
+; db/ip/nios_test/submodules/altera_tse_rx_counter_cntl.v                            ;
+; db/ip/nios_test/submodules/altera_tse_rx_encapsulation.v                           ;
+; db/ip/nios_test/submodules/altera_tse_rx_encapsulation_strx_gx.v                   ;
+; db/ip/nios_test/submodules/altera_tse_rx_ff.v                                      ;
+; db/ip/nios_test/submodules/altera_tse_rx_ff_cntrl.v                                ;
+; db/ip/nios_test/submodules/altera_tse_rx_ff_cntrl_32.v                             ;
+; db/ip/nios_test/submodules/altera_tse_rx_ff_cntrl_32_shift16.v                     ;
+; db/ip/nios_test/submodules/altera_tse_rx_ff_length.v                               ;
+; db/ip/nios_test/submodules/altera_tse_rx_fifo_rd.v                                 ;
+; db/ip/nios_test/submodules/altera_tse_rx_min_ff.v                                  ;
+; db/ip/nios_test/submodules/altera_tse_rx_stat_extract.v                            ;
+; db/ip/nios_test/submodules/altera_tse_rx_sync.v                                    ;
+; db/ip/nios_test/submodules/altera_tse_sdpm_altsyncram.v                            ;
+; db/ip/nios_test/submodules/altera_tse_sdpm_gen.v                                   ;
+; db/ip/nios_test/submodules/altera_tse_sgmii_clk_cntl.v                             ;
+; db/ip/nios_test/submodules/altera_tse_sgmii_clk_div.v                              ;
+; db/ip/nios_test/submodules/altera_tse_sgmii_clk_enable.v                           ;
+; db/ip/nios_test/submodules/altera_tse_sgmii_clk_scheduler.v                        ;
+; db/ip/nios_test/submodules/altera_tse_shared_mac_control.v                         ;
+; db/ip/nios_test/submodules/altera_tse_shared_register_map.v                        ;
+; db/ip/nios_test/submodules/altera_tse_timestamp_req_ctrl.v                         ;
+; db/ip/nios_test/submodules/altera_tse_timing_adapter8.v                            ;
+; db/ip/nios_test/submodules/altera_tse_timing_adapter32.v                           ;
+; db/ip/nios_test/submodules/altera_tse_timing_adapter_fifo8.v                       ;
+; db/ip/nios_test/submodules/altera_tse_timing_adapter_fifo32.v                      ;
+; db/ip/nios_test/submodules/altera_tse_top_1geth.v                                  ;
+; db/ip/nios_test/submodules/altera_tse_top_1000_base_x.ocp                          ;
+; db/ip/nios_test/submodules/altera_tse_top_1000_base_x.v                            ;
+; db/ip/nios_test/submodules/altera_tse_top_1000_base_x_strx_gx.ocp                  ;
+; db/ip/nios_test/submodules/altera_tse_top_1000_base_x_strx_gx.v                    ;
+; db/ip/nios_test/submodules/altera_tse_top_autoneg.v                                ;
+; db/ip/nios_test/submodules/altera_tse_top_fifoless_1geth.v                         ;
+; db/ip/nios_test/submodules/altera_tse_top_gen_host.ocp                             ;
+; db/ip/nios_test/submodules/altera_tse_top_gen_host.v                               ;
+; db/ip/nios_test/submodules/altera_tse_top_mdio.v                                   ;
+; db/ip/nios_test/submodules/altera_tse_top_multi_mac.v                              ;
+; db/ip/nios_test/submodules/altera_tse_top_multi_mac_pcs.v                          ;
+; db/ip/nios_test/submodules/altera_tse_top_multi_mac_pcs_gige.v                     ;
+; db/ip/nios_test/submodules/altera_tse_top_pcs.v                                    ;
+; db/ip/nios_test/submodules/altera_tse_top_pcs_strx_gx.v                            ;
+; db/ip/nios_test/submodules/altera_tse_top_rx.v                                     ;
+; db/ip/nios_test/submodules/altera_tse_top_rx_converter.v                           ;
+; db/ip/nios_test/submodules/altera_tse_top_sgmii.v                                  ;
+; db/ip/nios_test/submodules/altera_tse_top_sgmii_strx_gx.v                          ;
+; db/ip/nios_test/submodules/altera_tse_top_tx.v                                     ;
+; db/ip/nios_test/submodules/altera_tse_top_tx_converter.v                           ;
+; db/ip/nios_test/submodules/altera_tse_top_w_fifo.v                                 ;
+; db/ip/nios_test/submodules/altera_tse_top_w_fifo_10_100_1000.v                     ;
+; db/ip/nios_test/submodules/altera_tse_top_wo_fifo.v                                ;
+; db/ip/nios_test/submodules/altera_tse_top_wo_fifo_10_100_1000.v                    ;
+; db/ip/nios_test/submodules/altera_tse_tsu.v                                        ;
+; db/ip/nios_test/submodules/altera_tse_tx_converter.v                               ;
+; db/ip/nios_test/submodules/altera_tse_tx_counter_cntl.v                            ;
+; db/ip/nios_test/submodules/altera_tse_tx_encapsulation.v                           ;
+; db/ip/nios_test/submodules/altera_tse_tx_ff.v                                      ;
+; db/ip/nios_test/submodules/altera_tse_tx_ff_cntrl.v                                ;
+; db/ip/nios_test/submodules/altera_tse_tx_ff_cntrl_32.v                             ;
+; db/ip/nios_test/submodules/altera_tse_tx_ff_cntrl_32_shift16.v                     ;
+; db/ip/nios_test/submodules/altera_tse_tx_ff_length.v                               ;
+; db/ip/nios_test/submodules/altera_tse_tx_ff_read_cntl.v                            ;
+; db/ip/nios_test/submodules/altera_tse_tx_min_ff.v                                  ;
+; db/ip/nios_test/submodules/altera_tse_tx_stat_extract.v                            ;
+; db/ip/nios_test/submodules/altera_tse_xcvr_resync.v                                ;
+; db/ip/nios_test/submodules/BlockRam.v                                              ;
+; db/ip/nios_test/submodules/FrameGrabber.v                                          ;
+; db/ip/nios_test/submodules/nios_test_addr_router.sv                                ;
+; db/ip/nios_test/submodules/nios_test_addr_router_001.sv                            ;
+; db/ip/nios_test/submodules/nios_test_addr_router_002.sv                            ;
+; db/ip/nios_test/submodules/nios_test_addr_router_004.sv                            ;
+; db/ip/nios_test/submodules/nios_test_cmd_xbar_demux.sv                             ;
+; db/ip/nios_test/submodules/nios_test_cmd_xbar_demux_001.sv                         ;
+; db/ip/nios_test/submodules/nios_test_cmd_xbar_demux_002.sv                         ;
+; db/ip/nios_test/submodules/nios_test_cmd_xbar_mux.sv                               ;
+; db/ip/nios_test/submodules/nios_test_cmd_xbar_mux_005.sv                           ;
+; db/ip/nios_test/submodules/nios_test_cmd_xbar_mux_008.sv                           ;
+; db/ip/nios_test/submodules/nios_test_cpu.ocp                                       ;
+; db/ip/nios_test/submodules/nios_test_cpu.sdc                                       ;
+; db/ip/nios_test/submodules/nios_test_cpu.v                                         ;
+; db/ip/nios_test/submodules/nios_test_cpu_ic_tag_ram.mif                            ;
+; db/ip/nios_test/submodules/nios_test_cpu_jtag_debug_module_sysclk.v                ;
+; db/ip/nios_test/submodules/nios_test_cpu_jtag_debug_module_tck.v                   ;
+; db/ip/nios_test/submodules/nios_test_cpu_jtag_debug_module_wrapper.v               ;
+; db/ip/nios_test/submodules/nios_test_cpu_oci_test_bench.v                          ;
+; db/ip/nios_test/submodules/nios_test_cpu_ociram_default_contents.mif               ;
+; db/ip/nios_test/submodules/nios_test_cpu_rf_ram_a.mif                              ;
+; db/ip/nios_test/submodules/nios_test_cpu_rf_ram_b.mif                              ;
+; db/ip/nios_test/submodules/nios_test_cpu_test_bench.v                              ;
+; db/ip/nios_test/submodules/nios_test_descriptor_mem.hex                            ;
+; db/ip/nios_test/submodules/nios_test_descriptor_mem.v                              ;
+; db/ip/nios_test/submodules/nios_test_ethernet.v                                    ;
+; db/ip/nios_test/submodules/nios_test_ethernet_constraints.sdc                      ;
+; db/ip/nios_test/submodules/nios_test_ethernet_constraints.tcl                      ;
+; db/ip/nios_test/submodules/nios_test_ethernet_loopback.v                           ;
+; db/ip/nios_test/submodules/nios_test_id_router.sv                                  ;
+; db/ip/nios_test/submodules/nios_test_id_router_001.sv                              ;
+; db/ip/nios_test/submodules/nios_test_id_router_005.sv                              ;
+; db/ip/nios_test/submodules/nios_test_id_router_008.sv                              ;
+; db/ip/nios_test/submodules/nios_test_id_router_010.sv                              ;
+; db/ip/nios_test/submodules/nios_test_irq_mapper.sv                                 ;
+; db/ip/nios_test/submodules/nios_test_jtag_uart.v                                   ;
+; db/ip/nios_test/submodules/nios_test_jtag_uart_input_mutex.dat                     ;
+; db/ip/nios_test/submodules/nios_test_jtag_uart_input_stream.dat                    ;
+; db/ip/nios_test/submodules/nios_test_jtag_uart_output_stream.dat                   ;
+; db/ip/nios_test/submodules/nios_test_lcd.v                                         ;
+; db/ip/nios_test/submodules/nios_test_led_pio.v                                     ;
+; db/ip/nios_test/submodules/nios_test_mem.v                                         ;
+; db/ip/nios_test/submodules/nios_test_rsp_xbar_demux.sv                             ;
+; db/ip/nios_test/submodules/nios_test_rsp_xbar_demux_005.sv                         ;
+; db/ip/nios_test/submodules/nios_test_rsp_xbar_demux_008.sv                         ;
+; db/ip/nios_test/submodules/nios_test_rsp_xbar_mux.sv                               ;
+; db/ip/nios_test/submodules/nios_test_rsp_xbar_mux_001.sv                           ;
+; db/ip/nios_test/submodules/nios_test_sgdma_rx.v                                    ;
+; db/ip/nios_test/submodules/nios_test_sgdma_tx.v                                    ;
+; db/ip/nios_test/submodules/nios_test_sys_clk_timer.v                               ;
+; db/ip/nios_test/submodules/PMDAvalonWrapper.v                                      ;
+; db/ip/nios_test/submodules/PMDTiming.v                                             ;
+; db/ip/nios_test/submodules/ShiftRegister.v                                         ;
+; db/ip/nios_test/submodules/SPI.v                                                   ;
+; db/mod_pll_altpll.v                                                                ;
+; db/mux_drc.tdf                                                                     ;
+; db/mux_kob.tdf                                                                     ;
+; db/mux_rsc.tdf                                                                     ;
+; db/nios_test.cbx.xml                                                               ;
+; db/pll_altpll.v                                                                    ;
+; db/scfifo_5b31.tdf                                                                 ;
+; db/scfifo_ev31.tdf                                                                 ;
+; db/scfifo_jr21.tdf                                                                 ;
+; db/scfifo_kc31.tdf                                                                 ;
+; db/shift_taps_d4n.tdf                                                              ;
+; db/shift_taps_e4n.tdf                                                              ;
+; db/shift_taps_f4n.tdf                                                              ;
+; db/shift_taps_q5n.tdf                                                              ;
+; db/shift_taps_unm.tdf                                                              ;
+; ddio_out.ppf                                                                       ;
+; ddio_out.qip                                                                       ;
+; ddio_out.v                                                                         ;
+; ddio_shiftout.bsf                                                                  ;
+; ddio_shiftout.cmp                                                                  ;
+; ddio_shiftout.inc                                                                  ;
+; ddio_shiftout.ppf                                                                  ;
+; ddio_shiftout.qip                                                                  ;
+; ddio_shiftout.v                                                                    ;
+; ddio_shiftout_bb.v                                                                 ;
+; ddio_shiftout_inst.v                                                               ;
+; export_db/nios_test.archive.qmsg                                                   ;
+; export_db/nios_test.asm.qmsg                                                       ;
+; export_db/nios_test.autoh_e4eb1.map.atm                                            ;
+; export_db/nios_test.autoh_e4eb1.map.dpi                                            ;
+; export_db/nios_test.autoh_e4eb1.map.hdbx                                           ;
+; export_db/nios_test.autoh_e4eb1.map.kpt                                            ;
+; export_db/nios_test.autoh_e4eb1.map.logdb                                          ;
+; export_db/nios_test.cmp.atm                                                        ;
+; export_db/nios_test.cmp.bpm                                                        ;
+; export_db/nios_test.cmp.cfm                                                        ;
+; export_db/nios_test.cmp.hdbx                                                       ;
+; export_db/nios_test.cmp.kpt                                                        ;
+; export_db/nios_test.cmp.logdb                                                      ;
+; export_db/nios_test.cmp.rcf                                                        ;
+; export_db/nios_test.cmp.sci                                                        ;
+; export_db/nios_test.cmp.scidsc                                                     ;
+; export_db/nios_test.cmp.xml                                                        ;
+; export_db/nios_test.cmp_merge.kpt                                                  ;
+; export_db/nios_test.db_export.qmsg                                                 ;
+; export_db/nios_test.db_info                                                        ;
+; export_db/nios_test.export_db_files                                                ;
+; export_db/nios_test.export_db_post_map_files                                       ;
+; export_db/nios_test.export_db_report_files                                         ;
+; export_db/nios_test.fit.qmsg                                                       ;
+; export_db/nios_test.hier_info                                                      ;
+; export_db/nios_test.map.atm                                                        ;
+; export_db/nios_test.map.bpm                                                        ;
+; export_db/nios_test.map.hdbx                                                       ;
+; export_db/nios_test.map.kpt                                                        ;
+; export_db/nios_test.map.logdb                                                      ;
+; export_db/nios_test.map.qmsg                                                       ;
+; export_db/nios_test.map.sci                                                        ;
+; export_db/nios_test.map.scidsc                                                     ;
+; export_db/nios_test.map_bb.atm                                                     ;
+; export_db/nios_test.map_bb.hdbx                                                    ;
+; export_db/nios_test.map_bb.logdb                                                   ;
+; export_db/nios_test.map_bb.sci                                                     ;
+; export_db/nios_test.map_bb.scidsc                                                  ;
+; export_db/nios_test.nabbo_fd801.map.atm                                            ;
+; export_db/nios_test.nabbo_fd801.map.dpi                                            ;
+; export_db/nios_test.nabbo_fd801.map.hdbx                                           ;
+; export_db/nios_test.nabbo_fd801.map.kpt                                            ;
+; export_db/nios_test.nabbo_fd801.map.logdb                                          ;
+; export_db/nios_test.pre_map.hdbx                                                   ;
+; export_db/nios_test.root_partition.cmp.atm                                         ;
+; export_db/nios_test.root_partition.cmp.cfm                                         ;
+; export_db/nios_test.root_partition.cmp.dfp                                         ;
+; export_db/nios_test.root_partition.cmp.hdbx                                        ;
+; export_db/nios_test.root_partition.cmp.kpt                                         ;
+; export_db/nios_test.root_partition.cmp.logdb                                       ;
+; export_db/nios_test.root_partition.cmp.rcf                                         ;
+; export_db/nios_test.root_partition.map.atm                                         ;
+; export_db/nios_test.root_partition.map.dpi                                         ;
+; export_db/nios_test.root_partition.map.hbdb.atm                                    ;
+; export_db/nios_test.root_partition.map.hbdb.hb_info                                ;
+; export_db/nios_test.root_partition.map.hbdb.hdbx                                   ;
+; export_db/nios_test.root_partition.map.hbdb.sig                                    ;
+; export_db/nios_test.root_partition.map.hdbx                                        ;
+; export_db/nios_test.root_partition.map.kpt                                         ;
+; export_db/nios_test.sta.qmsg                                                       ;
+; export_db/nios_test.syn_hier_info                                                  ;
+; incremental_db/compiled_partitions/nios_test.db_info                               ;
+; incremental_db/compiled_partitions/nios_test.root_partition.cmp.cdb                ;
+; incremental_db/compiled_partitions/nios_test.root_partition.cmp.dfp                ;
+; incremental_db/compiled_partitions/nios_test.root_partition.cmp.hdb                ;
+; incremental_db/compiled_partitions/nios_test.root_partition.cmp.kpt                ;
+; incremental_db/compiled_partitions/nios_test.root_partition.cmp.logdb              ;
+; incremental_db/compiled_partitions/nios_test.root_partition.cmp.rcfdb              ;
+; incremental_db/compiled_partitions/nios_test.root_partition.map.cdb                ;
+; incremental_db/compiled_partitions/nios_test.root_partition.map.dpi                ;
+; incremental_db/compiled_partitions/nios_test.root_partition.map.hbdb.cdb           ;
+; incremental_db/compiled_partitions/nios_test.root_partition.map.hbdb.hb_info       ;
+; incremental_db/compiled_partitions/nios_test.root_partition.map.hbdb.hdb           ;
+; incremental_db/compiled_partitions/nios_test.root_partition.map.hbdb.sig           ;
+; incremental_db/compiled_partitions/nios_test.root_partition.map.hdb                ;
+; incremental_db/compiled_partitions/nios_test.root_partition.map.kpt                ;
+; mod_pll.ppf                                                                        ;
+; mod_pll.qip                                                                        ;
+; mod_pll.v                                                                          ;
+; nano_cam.sopcinfo                                                                  ;
+; nios_test.asm.rpt                                                                  ;
+; nios_test.db_export.rpt                                                            ;
+; nios_test.fit.rpt                                                                  ;
+; nios_test.fit.summary                                                              ;
+; nios_test.flow.rpt                                                                 ;
+; nios_test.jdi                                                                      ;
+; nios_test.map.rpt                                                                  ;
+; nios_test.map.smsg                                                                 ;
+; nios_test.map.summary                                                              ;
+; nios_test.pin                                                                      ;
+; nios_test.qpf                                                                      ;
+; nios_test.qsf                                                                      ;
+; nios_test.qsys                                                                     ;
+; nios_test.restore.rpt                                                              ;
+; nios_test.sopcinfo                                                                 ;
+; nios_test.sta.rpt                                                                  ;
+; nios_test.sta.summary                                                              ;
+; nios_test_assignment_defaults.qdf                                                  ;
+; pll.ppf                                                                            ;
+; pll.qip                                                                            ;
+; pll.v                                                                              ;
+; PMD_hw.tcl                                                                         ;
+; top.v                                                                              ;
+; tse_tutorial.sdc                                                                   ;
++------------------------------------------------------------------------------------+
+
+
